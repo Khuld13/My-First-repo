@@ -9,7 +9,7 @@
     <style>
         body{
             background-color: black;
-            color: aqua;
+            color: yellow;
         }
     </style>
    <body><div class="new">
